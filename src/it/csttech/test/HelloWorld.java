@@ -5,13 +5,12 @@ public class HelloWorld
 
     public HelloWorld()
     {
-        
+
     }
 
     public static void main(String[] args)
     {
-        // add comment 01
-
+        System.out.print("See tutorial at https://guides.github.com/activities/hello-world/");
     }
 
 }
